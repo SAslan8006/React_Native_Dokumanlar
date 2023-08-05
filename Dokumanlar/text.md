@@ -1,4 +1,4 @@
-## Text Kullanımı
+# Text Kullanımı
 
 Metni görüntülemek için kullanılan React bileşenidir.  
 Text yerleştirme, stil verme ve dokunmatik işlemeyi desteklemektedir.  
@@ -41,5 +41,6 @@ const styles = StyleSheet.create({
 export default TextInANest;
 ```
 
-Nested text
-NSAttributedStringHem Android hem de iOS, kalın veya renkli metin ( iOS'ta, SpannableStringAndroid'de) gibi belirli biçimlendirmeyle bir dizenin aralıklarına açıklama ekleyerek biçimlendirilmiş metni görüntülemenize olanak tanır . Uygulamada, bu çok sıkıcı. React Native için, aynı etkiyi elde etmek için metni iç içe yerleştirebileceğiniz web paradigmasını kullanmaya karar verdik.
+## Reference
+
+### Props
